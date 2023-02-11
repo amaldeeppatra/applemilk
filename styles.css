@@ -1,0 +1,70 @@
+body, html{
+    margin: 0px;
+}
+.nav{
+    display:flex;
+    justify-content: space-evenly;
+    border: none;
+    /* position: fixed;
+    top: 0;
+    z-index: 5; */
+    background-color: black;
+}
+
+.first{
+    background-color: rgb(72, 70, 70);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.second{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.film{
+    border-radius: 12px;
+    padding: 5px;
+}
+
+.learn{
+    border-radius: 12px;
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.fa-apple{
+    color: white;
+    /* background-color:black; */
+    /* padding: 5px; */
+}
+
+.nitem{
+    background-color: black;
+}
+
+.third{
+    text-align: center;
+    background-color: rgb(40, 39, 39);
+    padding: 10px;
+    height: 350px;
+    font-size: 3rem;
+    color: aliceblue;
+}
+
+hr{
+    border: none;
+}
+
+.pre{
+    padding: 15px;
+    border-radius: 25px;
+    font-size: medium;
+}
